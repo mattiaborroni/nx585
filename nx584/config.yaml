@@ -14,3 +14,4 @@ ports:
 full_access: true
 host_network: true
 auth_api: true
+hassio_api: true
