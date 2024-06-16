@@ -13,3 +13,4 @@ ports:
   5007/tcp: 5007
 full_access: true
 host_network: true
+auth_api: true
