@@ -2,7 +2,7 @@ name: "NX-584"
 description: "Interface to GE/CaddX/NetworkX alarm systems via NX-584/NX8E"
 version: "1.0.0"
 slug: "nx584"
-init: false
+init: true
 arch:
   - aarch64
   - amd64
