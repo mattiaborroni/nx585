@@ -12,4 +12,5 @@ arch:
 ports:
   5007/tcp: 5007
 uart: true
-devices: /dev/ttyUSB0
+devices: 
+  /dev/ttyUSB0
