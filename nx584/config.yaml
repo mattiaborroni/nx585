@@ -12,3 +12,4 @@ arch:
 ports:
   5007/tcp: 5007
 full_access: true
+docker_api: true
